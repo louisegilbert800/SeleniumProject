@@ -16,7 +16,7 @@ public class DemoStrings {
 			    System.out.println("First String: " + first);
 			    
 			    // create second
-			    //String second = "Health";
+			    String second = "Health";
 			    //System.out.println("Second String: " + second);
 
 			    // join two strings
